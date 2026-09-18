@@ -139,7 +139,7 @@
     {
       "id": "LA076",
       "name": "LAFVIN Desktop AI Gimbal Robot",
-      "image": "firmware/LA076/LA076.jpg",
+      "image": "firmware/LA076/LA076.png",
       "firmwares": [
         {
           "id": "xiaozhi_gimbal",
@@ -157,7 +157,7 @@
     {
       "id": "LA078",
       "name": "ESP32 S3 4DOF AI Robot Dog",
-      "image": "firmware/LA078/LA078.jpg",
+      "image": "firmware/LA078/LA078.png",
       "firmwares": [
         {
           "id": "Xiaozhi_AI_dog",

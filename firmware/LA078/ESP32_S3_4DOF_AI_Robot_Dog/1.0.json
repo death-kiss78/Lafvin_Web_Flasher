@@ -6,7 +6,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "Desktop_Emoji_Bot.bin",
+          "path": "AI_Robot_Dog_V2.bin",
           "offset": 0
         }
       ]

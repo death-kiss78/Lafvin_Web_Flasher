@@ -84,7 +84,7 @@
     {
       "id": "LA072",
       "name": "SpiderBot",
-      "image": "firmware/LA072/LA072.jpg",
+      "image": "firmware/LA072/LA072.png",
       "firmwares": [
         {
           "id": "SpiderBot",
@@ -332,6 +332,24 @@
               "id": "V1.0.1",
               "name": "V1.0.1",
               "manifest_path": "firmware/LB013/ESP-Claw/1.0.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LB018",
+      "name": "ESP32S3 RLCD",
+      "image": "firmware/LB018/LB018.jpg",
+      "firmwares": [
+        {
+          "id": "xiaozhi_rlcd",
+          "name": "xiaozhi_rlcd",
+          "versions": [
+            {
+              "id": "v1.0",
+              "name": "v1.0",
+              "manifest_path": "firmware/LB018/xiaozhi-rlcd/1.0.json"
             }
           ]
         }

@@ -10,6 +10,8 @@ import {
 } from './esptool-integration.js';
 
 document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('copyright-year').textContent = new Date().getFullYear();
+
     // --- DOM 引用 ---
     const body = document.body;
     const selectDeviceBtn = document.getElementById('select-device-btn');
